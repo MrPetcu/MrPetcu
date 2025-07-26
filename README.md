@@ -3,7 +3,7 @@
 Sunt pasionat de algoritmică și îmi place să particip la concursuri de programare competitivă, precum **Olimpiada Națională de Informatică** și **Olimpiada Națională de Informatică Aplicată AcadNet**. Îmi place să rezolv probleme complexe și să învăț despre teoria informaticii.
 
 ## Studii
-- 2019 - 2027 Liceul Teoretic "Grigore Moisil" Tulcea
+- 2019 - Prezent Liceul Teoretic "Grigore Moisil" Tulcea
 
 ## Rezultate notabile
 
