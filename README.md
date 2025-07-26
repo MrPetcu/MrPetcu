@@ -1,16 +1,24 @@
-## Hi there 👋
+## Despre mine
 
-<!--
-**MrPetcu/MrPetcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sunt pasionat de algoritmică și îmi place să particip la concursuri de programare competitivă, precum **Olimpiada Națională de Informatică** și **Olimpiada Națională de Informatică Aplicată AcadNet**. Îmi place să rezolv probleme complexe și să învăț despre teoria informaticii.
 
-Here are some ideas to get you started:
+## Studii
+- 2019 - 2027 Liceul Teoretic "Grigore Moisil" Tulcea
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Rezultate notabile
+
+### **2025**
+- Locul 1 Olimpiada Județeană de Informatică
+- Locul 1 Olimpiada Județeană de Informatică Aplicată
+- Calificare la Olimpiada Națională de Informatică Aplicată
+- Locul 15 la Olimpiada Națională de Informatică Aplicată
+### **2024**
+- Locul 1 Olimpiada Județeană de Informatică
+- Locul 1 Olimpiada Județeană de Informatică Aplicată
+- Calificare la Olimpiada Națională de Informatică
+- Calificare la Olimpiada Națională de Informatică Aplicată
+### **2023**
+- Locul 1 Olimpiada Județeană de Informatică
+### **2022**
+- Locul 1 Olimpiada Județeană de Informatică
+- Calificare la Olimpiada Națională de Informatică
